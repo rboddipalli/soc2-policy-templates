@@ -1,4 +1,4 @@
-name: Security Architecture Narrative
+name: Security Architecture Narrative 
 acronym: SEN
 satisfies:
   TSC:
@@ -22,6 +22,7 @@ Describe product architecture here, emphasizing security implications
 # {{.Name}} Infrastructure
 
 ## Product Infrastructure
+
 
 Describe product infrastructure, emphasizing security measures
 
